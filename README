@@ -1,2 +1,7 @@
 This library is designed for parsing and manipulating gpx files in
 python.
+
+This is a fork of the original pygpx library [1][2].
+
+[1] http://www.benno.id.au/code/pygpx/
+[2] http://pypi.python.org/pypi/pygpx/
